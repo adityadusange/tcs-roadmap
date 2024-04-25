@@ -1,0 +1,487 @@
+# TCS NQT 2024 Preparation Roadmap
+
+## Day 1:
+- **Integrated Topics**:
+  - Verbal Ability
+  - Quantitative Aptitude
+  - Logical Reasoning
+- **Topics Covered**:
+  - **Verbal Ability:**
+    - **Reading Comprehension:**
+      - Introduction to different question types, strategies for comprehension, practice passages.
+    - **Vocabulary:**
+      - Basic vocabulary building exercises, synonyms, antonyms.
+    - **Grammar:**
+      - Parts of speech, sentence structure, grammar rules practice.
+  - **Quantitative Aptitude:**
+    - **Arithmetic:**
+      - Basic operations, percentages, profit and loss, time and distance.
+    - **Algebra:**
+      - Linear equations, quadratic equations, inequalities.
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Statement assumptions, statement conclusions, logical deductions.
+    - **Non-Verbal:**
+      - Pattern recognition, series completion, figure matrices.
+    - **Analytical:**
+      - Data interpretation, logical puzzles.
+
+## Day 2:
+- **Integrated Topics**:
+  - Coding
+  - Verbal Ability
+  - Quantitative Aptitude
+- **Topics Covered**:
+  - **Coding:**
+    - **Introduction:**
+      - Basics of programming, data types, control structures.
+    - **Basic Concepts:**
+      - Functions, arrays, strings.
+    - **Practice Problems:**
+      - Solving simple coding problems, algorithmic thinking.
+  - **Verbal Ability:**
+    - **Reading Comprehension:**
+      - Advanced comprehension passages, inferential questions.
+    - **Vocabulary:**
+      - Idioms, phrasal verbs, word roots.
+    - **Grammar:**
+      - Sentence correction, error identification.
+  - **Quantitative Aptitude:**
+    - **Geometry & Mensuration:**
+      - Basic shapes, area, perimeter, volume, trigonometry concepts.
+
+## Day 3:
+- **Integrated Topics**:
+  - Logical Reasoning
+  - Coding
+  - Mathematics
+- **Topics Covered**:
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Critical reasoning, logical connectors.
+    - **Non-Verbal:**
+      - Series completion, analogy, classification.
+    - **Analytical:**
+      - Blood relations, coding-decoding, direction sense.
+  - **Coding:**
+    - **Data Structures:**
+      - Arrays, linked lists, stacks, queues.
+    - **Algorithms:**
+      - Sorting, searching, recursion.
+    - **Practice Problems:**
+      - Implementing data structures and algorithms.
+  - **Mathematics:**
+    - **Number Systems:**
+      - Properties of integers, divisibility rules.
+    - **Probability:**
+      - Basic concepts, sample space, events.
+
+## Day 4:
+- **Integrated Topics**:
+  - Verbal Ability
+  - Quantitative Aptitude
+  - Logical Reasoning
+- **Topics Covered**:
+  - **Verbal Ability:**
+    - **Reading Comprehension:**
+      - Advanced passages with complex themes, critical analysis questions.
+    - **Vocabulary:**
+      - Advanced vocabulary building, idiomatic expressions.
+    - **Grammar:**
+      - Advanced grammar concepts, sentence structure refinement.
+  - **Quantitative Aptitude:**
+    - **Arithmetic:**
+      - Ratio and proportion, averages, time and work.
+    - **Algebra:**
+      - Quadratic equations, inequalities, simultaneous equations.
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Analyzing arguments, logical connectives, cause and effect reasoning.
+    - **Non-Verbal:**
+      - Spatial reasoning, embedded figures, paper folding.
+
+## Day 5:
+- **Integrated Topics**:
+  - Coding
+  - Mathematics
+  - Verbal Ability
+- **Topics Covered**:
+  - **Coding:**
+    - **Advanced Data Structures:**
+      - Trees, graphs, hash tables.
+    - **Dynamic Programming:**
+      - Concept, approach, solving problems.
+    - **Practice Problems:**
+      - Advanced coding challenges.
+  - **Mathematics:**
+    - **Geometry:**
+      - Properties of polygons, coordinate geometry.
+    - **Trigonometry:**
+      - Trigonometric ratios, trigonometric equations.
+    - **Practice Problems:**
+      - Solving geometry and trigonometry questions.
+
+## Day 6:
+- **Integrated Topics**:
+  - Logical Reasoning
+  - Coding
+  - Quantitative Aptitude
+- **Topics Covered**:
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Analyzing arguments, logical connectives, critical reasoning.
+    - **Non-Verbal:**
+      - Analyzing patterns, figure formation, image analysis.
+    - **Analytical:**
+      - Critical thinking puzzles, data sufficiency.
+  - **Coding:**
+    - **Object-Oriented Programming:**
+      - Classes, objects, inheritance, polymorphism.
+    - **Advanced Algorithms:**
+      - Greedy algorithms, dynamic programming, graph algorithms.
+    - **Practice Problems:**
+      - Implementing complex algorithms.
+  - **Quantitative Aptitude:**
+    - **Geometry & Mensuration:**
+      - Advanced concepts in 3D geometry, surface area, and volume.
+    - **Advanced Arithmetic:**
+      - Partnership, mixture and allegation, time and work.
+
+## Day 7:
+- **Integrated Topics**:
+  - Verbal Ability
+  - Quantitative Aptitude
+  - Logical Reasoning
+- **Topics Covered**:
+  - **Verbal Ability:**
+    - **Reading Comprehension:**
+      - Advanced strategies, summarizing passages, critical analysis.
+    - **Vocabulary:**
+      - Idioms, advanced word usage, context-based meanings.
+    - **Grammar:**
+      - Sentence improvement, paragraph formation, error detection.
+  - **Quantitative Aptitude:**
+    - **Arithmetic:**
+      - Advanced problems on percentages, profit and loss, time and work.
+    - **Algebra:**
+      - Word problems, simultaneous equations, inequalities.
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Analyzing assumptions, evaluating arguments, inference-based questions.
+    - **Non-Verbal:**
+      - Advanced pattern recognition, completion of incomplete patterns.
+
+## Day 8:
+- **Integrated Topics**:
+  - Coding
+  - Mathematics
+  - Verbal Ability
+- **Topics Covered**:
+  - **Coding:**
+    - **Advanced Data Structures:**
+      - Trees, graphs, hash tables, advanced applications.
+    - **Dynamic Programming:**
+      - Advanced concepts, problem-solving techniques.
+    - **Practice Problems:**
+      - Solving competitive coding challenges.
+  - **Mathematics:**
+    - **Algebra:**
+      - Advanced concepts in polynomials, equations, and functions.
+    - **Statistics:**
+      - Measures of central tendency, dispersion, probability distributions.
+    - **Practice Problems:**
+      - Solving problems on algebra and statistics.
+  
+## Day 9:
+- **Integrated Topics**:
+  - Logical Reasoning
+  - Coding
+  - Quantitative Aptitude
+- **Topics Covered**:
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Critical reasoning, analyzing logical structures, identifying assumptions.
+    - **Non-Verbal:**
+      - Advanced spatial reasoning, visualization, pattern completion.
+    - **Analytical:**
+      - Complex data interpretation, logical puzzles, decision-making problems.
+  - **Coding:**
+    - **Advanced Algorithms:**
+      - Graph algorithms, dynamic programming optimization, advanced data structures.
+    - **Problem-solving:**
+      - Solving problems from competitive programming platforms.
+    - **Practice Problems:**
+      - Implementing complex algorithms efficiently.
+  - **Quantitative Aptitude:**
+    - **Geometry & Mensuration:**
+      - Advanced problems on solid geometry, coordinate geometry.
+    - **Advanced Arithmetic:**
+      - Advanced concepts in time, speed, and distance, permutations, and combinations.
+
+## Day 10:
+- **Integrated Topics**:
+  - Verbal Ability
+  - Quantitative Aptitude
+  - Logical Reasoning
+- **Topics Covered**:
+  - **Verbal Ability:**
+    - **Reading Comprehension:**
+      - Advanced passages with inferential questions, evaluating author's tone.
+    - **Vocabulary:**
+      - Advanced idioms, phrasal verbs, advanced word usage.
+    - **Grammar:**
+      - Advanced concepts in sentence correction, paragraph formation.
+  - **Quantitative Aptitude:**
+    - **Arithmetic:**
+      - Advanced problems on ratio and proportion, time and work, time, speed, and distance.
+    - **Algebra:**
+      - Advanced concepts in inequalities, functions, and equations.
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Analyzing arguments, critical reasoning, drawing conclusions.
+    - **Non-Verbal:**
+      - Advanced pattern recognition, matrix reasoning, completing number series.
+
+## Day 11:
+- **Integrated Topics**:
+  - Logical Reasoning
+  - Coding
+  - Quantitative Aptitude
+- **Topics Covered**:
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Advanced critical reasoning, logical connectors, analyzing arguments.
+    - **Non-Verbal:**
+      - Advanced series completion, analogy, classification.
+    - **Analytical:**
+      - Complex data interpretation, critical thinking puzzles.
+  - **Coding:**
+    - **Advanced Algorithms:**
+      - Graph algorithms, dynamic programming optimization, advanced data structures.
+    - **Problem-solving:**
+      - Solving problems from competitive programming platforms.
+    - **Practice Problems:**
+      - Implementing complex algorithms efficiently.
+  - **Quantitative Aptitude:**
+    - **Geometry & Mensuration:**
+      - Advanced problems on solid geometry, coordinate geometry.
+    - **Advanced Arithmetic:**
+      - Advanced concepts in time, speed, and distance, permutations, and combinations.
+
+## Day 12:
+- **Integrated Topics**:
+  - Verbal Ability
+  - Quantitative Aptitude
+  - Logical Reasoning
+- **Topics Covered**:
+  - **Verbal Ability:**
+    - **Reading Comprehension:**
+      - Advanced passages with inferential questions, evaluating author's tone.
+    - **Vocabulary:**
+      - Advanced idioms, phrasal verbs, advanced word usage.
+    - **Grammar:**
+      - Advanced concepts in sentence correction, paragraph formation.
+  - **Quantitative Aptitude:**
+    - **Arithmetic:**
+      - Advanced problems on ratio and proportion, time and work, time, speed, and distance.
+    - **Algebra:**
+      - Advanced concepts in inequalities, functions, and equations.
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Analyzing arguments, critical reasoning, drawing conclusions.
+    - **Non-Verbal:**
+      - Advanced pattern recognition, matrix reasoning, completing number series.
+
+## Day 13:
+- **Integrated Topics**:
+  - Coding
+  - Mathematics
+  - Verbal Ability
+- **Topics Covered**:
+  - **Coding:**
+    - **Advanced Data Structures:**
+      - Trees, graphs, hash tables, advanced applications.
+    - **Dynamic Programming:**
+      - Advanced concepts, problem-solving techniques.
+    - **Practice Problems:**
+      - Solving competitive coding challenges.
+  - **Mathematics:**
+    - **Algebra:**
+      - Advanced concepts in polynomials, equations, and functions.
+    - **Statistics:**
+      - Measures of central tendency, dispersion, probability distributions.
+    - **Practice Problems:**
+      - Solving problems on algebra and statistics.
+
+## Day 14:
+- **Integrated Topics**:
+  - Logical Reasoning
+  - Coding
+  - Quantitative Aptitude
+- **Topics Covered**:
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Critical reasoning, analyzing logical structures, identifying assumptions.
+    - **Non-Verbal:**
+      - Advanced spatial reasoning, visualization, pattern completion.
+    - **Analytical:**
+      - Complex data interpretation, logical puzzles, decision-making problems.
+  - **Coding:**
+    - **Advanced Algorithms:**
+      - Graph algorithms, dynamic programming optimization, advanced data structures.
+    - **Problem-solving:**
+      - Solving problems from competitive programming platforms.
+    - **Practice Problems:**
+      - Implementing complex algorithms efficiently.
+  - **Quantitative Aptitude:**
+    - **Geometry & Mensuration:**
+      - Advanced problems on solid geometry, coordinate geometry.
+    - **Advanced Arithmetic:**
+      - Advanced concepts in time, speed, and distance, permutations, and combinations.
+
+## Day 15:
+- **Integrated Topics**:
+  - Verbal Ability
+  - Quantitative Aptitude
+  - Logical Reasoning
+- **Topics Covered**:
+  - **Verbal Ability:**
+    - **Reading Comprehension:**
+      - Advanced strategies, summarizing passages, critical analysis.
+    - **Vocabulary:**
+      - Idioms, advanced word usage, context-based meanings.
+    - **Grammar:**
+      - Sentence improvement, paragraph formation, error detection.
+  - **Quantitative Aptitude:**
+    - **Arithmetic:**
+      - Advanced problems on percentages, profit and loss, time and work.
+    - **Algebra:**
+      - Word problems, simultaneous equations, inequalities.
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Analyzing assumptions, evaluating arguments, inference-based questions.
+    - **Non-Verbal:**
+      - Advanced pattern recognition, completion of incomplete patterns.
+
+## Day 16:
+- **Integrated Topics**:
+  - Logical Reasoning
+  - Coding
+  - Quantitative Aptitude
+- **Topics Covered**:
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Advanced critical reasoning, logical connectors, analyzing arguments.
+    - **Non-Verbal:**
+      - Advanced series completion, analogy, classification.
+    - **Analytical:**
+      - Complex data interpretation, critical thinking puzzles.
+  - **Coding:**
+    - **Advanced Algorithms:**
+      - Graph algorithms, dynamic programming optimization, advanced data structures.
+    - **Problem-solving:**
+      - Solving problems from competitive programming platforms.
+    - **Practice Problems:**
+      - Implementing complex algorithms efficiently.
+  - **Quantitative Aptitude:**
+    - **Geometry & Mensuration:**
+      - Advanced problems on solid geometry, coordinate geometry.
+    - **Advanced Arithmetic:**
+      - Advanced concepts in time, speed, and distance, permutations, and combinations.
+
+## Day 17:
+- **Integrated Topics**:
+  - Verbal Ability
+  - Quantitative Aptitude
+  - Logical Reasoning
+- **Topics Covered**:
+  - **Verbal Ability:**
+    - **Reading Comprehension:**
+      - Advanced passages with inferential questions, evaluating author's tone.
+    - **Vocabulary:**
+      - Advanced idioms, phrasal verbs, advanced word usage.
+    - **Grammar:**
+      - Advanced concepts in sentence correction, paragraph formation.
+  - **Quantitative Aptitude:**
+    - **Arithmetic:**
+      - Advanced problems on ratio and proportion, time and work, time, speed, and distance.
+    - **Algebra:**
+      - Advanced concepts in inequalities, functions, and equations.
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Analyzing arguments, critical reasoning, drawing conclusions.
+    - **Non-Verbal:**
+      - Advanced pattern recognition, matrix reasoning, completing number series.
+
+## Day 18:
+- **Integrated Topics**:
+  - Coding
+  - Mathematics
+  - Verbal Ability
+- **Topics Covered**:
+  - **Coding:**
+    - **Advanced Data Structures:**
+      - Trees, graphs, hash tables, advanced applications.
+    - **Dynamic Programming:**
+      - Advanced concepts, problem-solving techniques.
+    - **Practice Problems:**
+      - Solving competitive coding challenges.
+  - **Mathematics:**
+    - **Algebra:**
+      - Advanced concepts in polynomials, equations, and functions.
+    - **Statistics:**
+      - Measures of central tendency, dispersion, probability distributions.
+    - **Practice Problems:**
+      - Solving problems on algebra and statistics.
+
+## Day 19:
+- **Integrated Topics**:
+  - Logical Reasoning
+  - Coding
+  - Quantitative Aptitude
+- **Topics Covered**:
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Critical reasoning, analyzing logical structures, identifying assumptions.
+    - **Non-Verbal:**
+      - Advanced spatial reasoning, visualization, pattern completion.
+    - **Analytical:**
+      - Complex data interpretation, logical puzzles, decision-making problems.
+  - **Coding:**
+    - **Advanced Algorithms:**
+      - Graph algorithms, dynamic programming optimization, advanced data structures.
+    - **Problem-solving:**
+      - Solving problems from competitive programming platforms.
+    - **Practice Problems:**
+      - Implementing complex algorithms efficiently.
+  - **Quantitative Aptitude:**
+    - **Geometry & Mensuration:**
+      - Advanced problems on solid geometry, coordinate geometry.
+    - **Advanced Arithmetic:**
+      - Advanced concepts in time, speed, and distance, permutations, and combinations.
+
+## Day 20:
+- **Integrated Topics**:
+  - Verbal Ability
+  - Quantitative Aptitude
+  - Logical Reasoning
+- **Topics Covered**:
+  - **Verbal Ability:**
+    - **Reading Comprehension:**
+      - Advanced strategies, summarizing passages, critical analysis.
+    - **Vocabulary:**
+      - Idioms, advanced word usage, context-based meanings.
+    - **Grammar:**
+      - Sentence improvement, paragraph formation, error detection.
+  - **Quantitative Aptitude:**
+    - **Arithmetic:**
+      - Advanced problems on percentages, profit and loss, time and work.
+    - **Algebra:**
+      - Word problems, simultaneous equations, inequalities.
+  - **Logical Reasoning:**
+    - **Verbal:**
+      - Analyzing assumptions, evaluating arguments, inference-based questions.
+    - **Non-Verbal:**
+      - Advanced pattern recognition, completion of incomplete patterns.
+
+     
